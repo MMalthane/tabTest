@@ -1,6 +1,9 @@
 To run on development
-npm start 
+npm install && npm start 
+
 http://localhost:3000/
+
+gitignore - node module
 
 React components
 - App
